@@ -1,8 +1,8 @@
 PREDEF:
-  - preface.re
+  - 00_preface.re
 
 CHAPS:
-  - article.re
+  - 01_gettingStarted.re
 
 APPENDIX:
 
